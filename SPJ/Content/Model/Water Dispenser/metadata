@@ -1,0 +1,110 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p>Water dispenser, 4k textures, gameready.</p>",
+		"isAiForbidden": true,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "2025-02-24T11:48:50.579431Z",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/2d9b8704-4bc6-4b66-86e7-393c87d2a0b1/902bc8ed-34d7-4b15-b2d5-8e625aad23cc.jpg",
+		"publishedAt": "2024-10-30T15:31:28.257655Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/587dc3c7-9614-45ea-b476-36737780c245/72b9ad96-5b83-44bb-a3b4-3ef8dde5a543.jpg",
+		"title": "Water dispenser",
+		"uid": "a05dc6fa-e4c0-47bf-b6fb-a2d4d2540bad",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-z67lkn7t3l28yjubwjs6n4lyq6x8rn/backgroundImage/blob-1920x540-9fe9aab5dd6a964c63c2a0603ec2ca26.jpg",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-z67lkn7t3l28yjubwjs6n4lyq6x8rn/profileImage/blob-500x500-e6031a43973b9199caf8025ee93ff851.jpg",
+			"sellerName": "Wielewski",
+			"uid": "8fbfad9a-905e-421e-8aaf-a2f1ebfc11a5"
+		},
+		"tags": [
+			{
+				"name": "Furniture",
+				"slug": "furniture",
+				"uid": "0f6b3b40-8715-4963-b755-0160e80cf12c"
+			},
+			{
+				"name": "Gameready",
+				"slug": "gameready",
+				"uid": "6a250196-0821-43cb-b9cd-3975f235b88d"
+			},
+			{
+				"name": "Water",
+				"slug": "water",
+				"uid": "89ccf800-af4e-4fcd-9c52-6dc8e22729d0"
+			},
+			{
+				"name": "Dispenser",
+				"slug": "dispenser",
+				"uid": "a7821e80-9001-4b91-9e07-c7d4620c0e74"
+			},
+			{
+				"name": "Object",
+				"slug": "object",
+				"uid": "a7ccd577-0ad4-42d6-8487-c8693ccab1b4"
+			},
+			{
+				"name": "Prop",
+				"slug": "prop",
+				"uid": "c4f4f70b-31aa-41e7-b857-70631ffdeb3f"
+			}
+		],
+		"category":
+		{
+			"name": "Furniture & Fixtures",
+			"path": "furniture-fixtures",
+			"slug": "furniture-fixtures",
+			"uid": "3da1d2bd-49b4-4bc5-90e5-d31dadec3bd0"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "Additional files",
+					"groupName": "Other Formats",
+					"code": "additional-files",
+					"icon": "file",
+					"extensions": [
+						"zip"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "79fa1dc8-501e-4727-a1eb-c35df5c1a0f4",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}
